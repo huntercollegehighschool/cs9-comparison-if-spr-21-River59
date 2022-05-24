@@ -22,8 +22,9 @@ Enter a month:  Saturday
 not a month
 '''
 
-#start writing your code below have an udea
+#start writing your code below
 month = str(input("Enter a month: "))
+
 
 if month == "September" or month == "April" or month == "June" or month == "November": 
   print("30")
